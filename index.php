@@ -52,10 +52,10 @@ if (!isset($_SESSION['user_id'])) {
                         <div id="productCarouselA" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="assets/imgs/2.jpg" class="d-block w-100" alt="ภาพสินค้า A - 1">
+                                    <img src="assets/imgs/products42698_800.jpg" class="d-block w-100" alt="ภาพสินค้า A - 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="assets/imgs/one.jpg" class="d-block w-100" alt="ภาพสินค้า A - 2">
+                                    <img src="assets/imgs/products42702_800.jpg" class="d-block w-100" alt="ภาพสินค้า A - 2">
                                 </div>
                                 <div class="carousel-item">
                                     <img src="assets/imgs/products42701_800.jpg" class="d-block w-100"
